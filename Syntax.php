@@ -110,4 +110,7 @@ for($var = 1; $var <= 11; $var++){
 
 name();
 
+//OOP in PHP
+// Include: Classes, Objects, Polymorphism, Inheritance, Member functions, Constructor, Destructor
+//Object: Instance of a class i.e: Car is a class, Toyota, Mercedes- Objects
 ?>
